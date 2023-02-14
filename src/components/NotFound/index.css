@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.dark-not-container {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.light-not-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.dark-heading {
+  color: #ffffff;
+}
+.dark-desc {
+  color: #ffffff;
+}
+.light-heading {
+  color: #171f46;
+}
+.light-desc {
+  color: #171f46;
+}
+.img {
+  height: 250px;
+  width: 200px;
+}
